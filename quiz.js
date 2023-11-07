@@ -19,15 +19,15 @@ let countdown;
 const quizArray = [
     {
         id: "0",
-        question: "How many legs do insects have?",
-        options: ["six", "seven", "four", "eight"],
-        correct: "six",
+        question: "1 Gigabyte (Gb) =",
+        options: ["1024", "1000", "1200", "1275"],
+        correct: "1024",
     },
     {
         id: "1",
-        question: "What is the closest planet to the Sun?",
-        options: ["Earth", "Jupiter", "Mercury", "Mars"],
-        correct: "Mercury",
+        question: "Which among the following is used in creating a chart?",
+        options: ["Chart Wizard", "Computing Wizard", "Calculating Wizard", "Data Wizard"],
+        correct: "Chart Wizard",
     },
     {
         id: "2",
@@ -37,9 +37,9 @@ const quizArray = [
     },
     {
         id: "3",
-        question: "In which country can you find the Eiffel Tower",
-        options: ["France", "Italy", "India", "Germany"],
-        correct: "France",
+        question: "If you need to paste the contents of MS Word, which command will you give?",
+        options: ["Ctrl+A", "Ctrl+C", "Ctrl+V", "Ctrl+Z"],
+        correct: "Ctrl+V",
     },
     {
         id: "4",
@@ -49,14 +49,14 @@ const quizArray = [
     },
     {
         id: "5",
-        question: "The main computer that stores the files that can be sent to computers that are networked together is:",
-        options: ["Clip art", "Mother board", "Peripheral", "File server"],
-        correct: "File server",
+        question: " The ‘P’ in CPU stands for …",
+        options: ["Process", "Program", "Peripheral", "Plan"],
+        correct: "Process",
     }, {
         id: "6",
-        question: "How can you catch a computer virus?",
-        options: ["Sending e-mail messages", "Using a laptop during the winter", "Opening e-mail attachments", "Shopping on-line"],
-        correct: "Opening e-mail attachments",
+        question: "Magnetic disk or simply disk is an information storage device",
+        options: ["City", "Organization", "Department", "Individual"],
+        correct: "Individual",
     },
     {
         id: "7",
@@ -72,9 +72,9 @@ const quizArray = [
     },
     {
         id: "9",
-        question: "Which of the following is not a valid domain name?",
-        options: ["www.yahoo.com", "www.yahoo.co.uk", "www.com.yahoo", "www.yahoo.co.in"],
-        correct: "www.com.yahoo",
+        question: "Which among the following term is used to define the error in computer programing that produces wrong result?",
+        options: ["Virus", "Cookies", "Bug", "Torjan"],
+        correct: "Bug",
     },
 ];
 
